@@ -16,7 +16,7 @@ Header{
     font-kerning: auto;
 }
 
-body{
+.body{
     font-family: 'Times New Roman', Times, serif;
     text-align: center;
     background-image: url(img/Fundodosite.png);
