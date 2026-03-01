@@ -19,7 +19,7 @@ Header{
 .body{
     font-family: 'Times New Roman', Times, serif;
     text-align: center;
-    background-image: url(img/Fundodosite.png);
+    background-image: url (Fundodosite.png);
     background-size: cover;
     background-repeat: no-repeat;
     padding: 30px; 
