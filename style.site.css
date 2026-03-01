@@ -1,5 +1,5 @@
 
-.Header{
+Header{
     background-color: rgb(0, 153, 255);
     color: whitesmoke;
     padding: 10px;
@@ -9,14 +9,14 @@
     background-repeat: no-repeat;
 }
 
-.TextoPrincipal{
+TextoPrincipal{
     
     font-size: 70px;
     font-family: 'Times New Roman', Times, serif;
     font-kerning: auto;
 }
 
-.body{
+body{
     font-family: 'Times New Roman', Times, serif;
     text-align: center;
     background-image: url (img/Fundodosite.png);
