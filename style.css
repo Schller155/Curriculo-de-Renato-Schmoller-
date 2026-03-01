@@ -20,7 +20,7 @@ ul a {
     color: whitesmoke;
     padding: 10px;
     border-radius: 30px;
-    background-image: url(img/Headerdosite3.png);
+    background-image: url (img/Headerdosite3.png);
     background-size: cover;
     background-repeat: no-repeat;
 }
